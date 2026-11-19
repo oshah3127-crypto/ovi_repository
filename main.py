@@ -1,2 +1,3 @@
-ECHO is on.
+
 print("hi ovi")
+print("version 2")
